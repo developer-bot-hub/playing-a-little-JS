@@ -1,0 +1,20 @@
+* {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Trispace', sans-serif;
+	font-weight: 100px;
+    background-color: #66fed7;
+}
+.content {
+    padding: 20px;
+    margin: 20px;
+    color: #ff80ab;
+    background-color: #66fed7;
+    text-shadow: 0px 0px 10px #b3e5fc, 0px 0px 10px #b3e5fc, 0px 0px 10px #b3e5fc;
+}
+.img {
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    display: flex;
+}
